@@ -15,4 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sibinsunny404&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<span style="display: inline-block; padding: 0.2em 0.5em; font-size: 0.9em; font-weight: bold; color: white; background-color: #4caf50; border-radius: 0.25em;">
+  Visitor Count: 1234
+</span>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
