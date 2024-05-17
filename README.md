@@ -1,4 +1,8 @@
-<img src=”[https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://github.com/sibinsunny404/sibinsunny404/assets/64060233/a98b9a32-28d9-44e2-abc0-8403ab942338)" alt=”my banner”>
+<p align=”center”>
+
+<img width=”200" height=”200" src=”[https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://github.com/sibinsunny404/sibinsunny404/assets/64060233/a98b9a32-28d9-44e2-abc0-8403ab942338)" alt=”my banner”>
+
+</p>
 
 <!--
 **sibinsunny404/sibinsunny404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
